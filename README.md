@@ -20,7 +20,7 @@ List of Design Patterns already in this project:
 
 ## 3. More info about design pattern
 
-I plan to write some blogs about design pattern, you can find them <a href='http://www.acttos.org/#blog',target='_blank'>[ Here ]</a> sooner or later.
+I plan to write some blogs about design pattern, you can find them [ [Here] ](http://www.acttos.org/#blog) sooner or later.
 
 ## 4. License
 
