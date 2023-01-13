@@ -24,4 +24,4 @@ I plan to write some blogs about design pattern, you can find them <a href='http
 
 ## 4. License
 
-All the codes are under [ [The MIT License(MIT)] ](https://mit-license.org/), So feel free to share this project as you wish.
+All the codes are under [ [GNU GENERAL PUBLIC LICENSE] ](https://www.gnu.org/licenses/gpl-3.0.en.html), So feel free to share this project as you wish.
